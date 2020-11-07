@@ -1,0 +1,13 @@
+h1 {
+    color: green;
+    padding-bottom: 15px;
+}
+body {
+    background-color: lightgray;
+    line-height: 0.5;
+    text-align: center;
+}
+h2 {
+    color: red;
+    padding-bottom: 15px;
+}
